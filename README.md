@@ -7,7 +7,7 @@ version: 0.2.4
 version: 0.2.3
 
 ### UltiTools
-version: 0.2.3
+version: 0.2.5
 
 ### UltiMenu
 version: none
