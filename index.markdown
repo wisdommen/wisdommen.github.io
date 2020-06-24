@@ -4,12 +4,10 @@
 
 layout: home
 ---
-# UltiKits插件系列主页
-
 ### [UltiLevel]()
 version: 0.2.4
 
-### [UltiEconomy](https://wisdommen.github.io/UltiEconomy.md)
+### [UltiEconomy](https://wisdommen.github.io/2020/06/24/UltiEconomy.html)
 version: 0.2.3
 
 ### [UltiTools]()
