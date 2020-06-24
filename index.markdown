@@ -7,13 +7,13 @@ layout: home
 ![bgp](https://truth.bahamut.com.tw/s01/201901/28485084378f4214f3d10a88ac3a10fd.JPG "minecraft")
 ## Ultikits系列
 
-### [UltiLevel]()
+### [UltiLevel](https://wisdommen.github.io/2020/06/24/UltiLevel.html)
 version: 0.2.4
 
 ### [UltiEconomy](https://wisdommen.github.io/2020/06/24/UltiEconomy.html)
 version: 0.2.3
 
-### [UltiTools]()
+### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
 version: 0.2.5
 
 ### UltiMenu
