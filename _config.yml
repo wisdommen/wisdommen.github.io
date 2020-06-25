@@ -21,7 +21,6 @@
 title: UltiKits插件系列主页
 email: xia.erich03@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  本系列插件所用所有代码均为原创,不存在借用/抄袭等行为
   本系列插件目前为非盈利性插件，免费发布，严禁销售和转卖
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
