@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![bgp](https://truth.bahamut.com.tw/s01/201901/28485084378f4214f3d10a88ac3a10fd.JPG "minecraft")
+![bgp](https://github.com/wisdommen/wisdommen.github.io/blob/master/pictures/28485084378f4214f3d10a88ac3a10fd.jpg "minecraft")
 ## Ultikits系列
 
 ### [UltiLevel](https://wisdommen.github.io/2020/06/24/UltiLevel.html)
