@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: UltiLevel 等级插件
 ---
 # UltiLevel简介

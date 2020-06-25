@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: UltiEconomy 经济前置插件
 ---
 # UltiEconomy简介
