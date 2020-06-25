@@ -21,5 +21,3 @@ version: 0.2.5
 
 ### UltiMenu
 version: none
-
-#### 作者：wisdomme
