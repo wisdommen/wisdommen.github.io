@@ -4,4 +4,4 @@ title: UltiEconomy 经济前置插件
 ---
 # 简介
 
-# [下载]()
+# [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)

@@ -9,12 +9,15 @@ layout: home
 
 ### [UltiLevel](https://wisdommen.github.io/2020/06/24/UltiLevel.html)
 version: 0.2.4
+[下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultilevel)
 
 ### [UltiEconomy](https://wisdommen.github.io/2020/06/24/UltiEconomy.html)
 version: 0.2.3
+[下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)
 
 ### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
 version: 0.2.5
+[下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiMenu
 version: none
