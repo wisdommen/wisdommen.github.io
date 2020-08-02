@@ -8,7 +8,7 @@ layout: home
 ## Ultikits系列
 
 ### [UltiLevel](https://wisdommen.github.io/2020/06/24/UltiLevel.html)
-version: 2.0.5
+version: 2.0.6
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultilevel)
 
 ### [UltiEconomy](https://wisdommen.github.io/2020/06/24/UltiEconomy.html)
@@ -16,7 +16,7 @@ version: 2.0.1
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)
 
 ### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
-version: 2.2.5
+version: 2.2.6
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiMenu
