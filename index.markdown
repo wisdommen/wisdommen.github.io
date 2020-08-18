@@ -26,4 +26,4 @@ version: 0.1.3
 ## 自主排错
 在向作者反馈bug或者提issue之前请务必完成以下步骤
 
-[具体步骤]()
+[具体步骤](https://wisdommen.github.io/2020/06/24/CheckBeforeIssue.html)
