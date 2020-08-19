@@ -12,7 +12,7 @@ version: 2.1.0
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultilevel)
 
 ### [UltiEconomy](https://wisdommen.github.io/2020/06/24/UltiEconomy.html)
-version: 2.5.4
+version: 2.5.5
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)
 
 ### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
