@@ -16,7 +16,7 @@ version: 2.5.4
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)
 
 ### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
-version: 2.4.2
+version: 2.4.3
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiMenu
