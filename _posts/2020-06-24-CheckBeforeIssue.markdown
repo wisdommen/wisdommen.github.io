@@ -8,7 +8,7 @@ title: 自主排错
 
 ---
 
-##### 基础部分，包括UltiLevel，UltiTools，UltiEconomy
+### 基础部分，包括UltiLevel，UltiTools，UltiEconomy
 
 1. 本插件未能完美支持paper，若使用paper端可能会出现各种无端bug，请谅解
 
@@ -38,7 +38,7 @@ title: 自主排错
 
 ---
 
-##### 礼包系统配置文件问题
+### 礼包系统配置文件问题
 
 1. 请至少了解一下YAML语法。
 
