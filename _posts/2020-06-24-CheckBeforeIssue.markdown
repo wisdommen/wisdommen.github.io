@@ -20,13 +20,25 @@ title: 自主排错
     
     UltiEconomy 前置：无
 
-3. 如果安装了PlaceHolderAPI，请检查是否下载了Player变量。
+3. 如果安装了PlaceHolderAPI，请检查是否下载了变量。
 
-    若不知道或者没有安装，请在服务器内使用OP权限执行这些命令，并重启服务器。
+    错误1：java.util.UnknownFormatConversionException: Conversion = 'p'
+    
+    原因是papi没有安装player变量。
+
+    请在服务器内使用OP权限执行这些命令，并重启服务器。
     
     /PAPI ecloud download Player
     
     /PAPI reload
+    
+    错误2：java.util.UnknownFormatConversionException: Conversion = 'u'
+    
+    原因是你没有安装UltiLevel插件，papi无法找到ul开头的变量。
+    
+    请在config.yml配置文件中查看聊天前缀部分，将[§c%ul_job%§dLv.%ul_level%§e]中的变量改为存在的变量或者删除
+    
+    并且同时检查整个config.yml文件中带有ul开头的变量，修改或者删除
     
 4. 如果你的核心版本是1.16.1的bukkit或者spigot，请检查你的核心是否为最新版本，如果不是请使用官方BuildTools构建最新版本，大部分问题可以在这里解决
 
