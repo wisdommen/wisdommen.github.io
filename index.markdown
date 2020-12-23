@@ -20,7 +20,7 @@ version: 4.2.2
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiMenu
-version: 0.1.3
+version: 0.1.4
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultimenu)
 
 ## 自主排错
