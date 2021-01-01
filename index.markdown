@@ -19,9 +19,9 @@ version: 2.6.4
 version: 4.2.2
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
-### UltiMenu
-version: 0.1.4
-[下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultimenu)
+### UltiCoreAPI
+version: 1.1.3
+[下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiCore)
 
 ## 自主排错
 在向作者反馈bug或者提issue之前请务必完成以下步骤
