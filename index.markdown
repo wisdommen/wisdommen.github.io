@@ -20,7 +20,7 @@ version: 5.0.5
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiCoreAPI
-version: 1.1.7
+version: 1.1.8
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiCore)
 
 ## 自主排错
