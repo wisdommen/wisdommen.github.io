@@ -16,11 +16,11 @@ version: 2.7.0
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiEconomy)
 
 ### [UltiTools](https://wisdommen.github.io/2020/06/24/UltiTools.html)
-version: 5.1.2
+version: 5.1.3
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/Ultitools)
 
 ### UltiCoreAPI
-version: 1.2.1
+version: 1.2.2
 [下载](https://github.com/wisdommen/wisdommen.github.io/tree/master/collections/UltiCore)
 
 ## 自主排错
